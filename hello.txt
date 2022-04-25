@@ -20,3 +20,4 @@ hello atguigu hello git  hot-fix test
 444444444444444444444 by lhc
 555555555555555555555 by rfy
 测试ssh免密登录
+测试ssh免密push
